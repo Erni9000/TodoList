@@ -1,2 +1,2 @@
 # TodoList
-My first Android project
+My first Android project working with Kotlin
